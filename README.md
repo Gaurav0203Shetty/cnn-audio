@@ -96,9 +96,6 @@ To monitor training:
 tensorboard --logdir tensorboard_logs/
 ```
 
-## License
-MIT License. See [LICENSE](LICENSE) for details.
-
 ## Acknowledgements
 - Inspired by open-source audio classification and visualization projects.
 - Built with Next.js, React, and Tailwind CSS.
